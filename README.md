@@ -25,6 +25,13 @@ This Power BI project provides a comprehensive analysis of sales data , Offering
 
 - Strategic Value: The insights derived from this dashboard can guide business strategies in sales optimization, regional targeting, and inventory planning.
 
+  # Project Highlights
+
+  Metric value
+  TOTAL SALES 438K
+  TOTAL PROFIT 37K
+  TOTAL QUANTITY SOLD 5615
+
   # Repository Structure
   - Data: <a href="https://github.com/Ayushx7766/Power-BI-Dashboard-Project" target="_blank">Power BI Dashboard Project</a>
   - Dashboard: Power BI file (.pbix) of the project
