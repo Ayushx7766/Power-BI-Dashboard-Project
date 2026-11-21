@@ -24,3 +24,8 @@ This Power BI project provides a comprehensive analysis of sales data , Offering
 - Business-Driven Insights: Each visual is designed to answer specific business questions, such as identifying high-profit categories and understanding customer purchasing trends.
 
 - Strategic Value: The insights derived from this dashboard can guide business strategies in sales optimization, regional targeting, and inventory planning.
+
+  # Repository Structure
+  - Data: <a href="https://github.com/Ayushx7766/Power-BI-Dashboard-Project" target="_blank">Power BI Dashboard Project</a>
+  - Dashboard: Power BI file (.pbix) of the project
+  - Images: Contains screenshots of the dashboard before easy preview.
