@@ -29,3 +29,5 @@ This Power BI project provides a comprehensive analysis of sales data , Offering
   - Data: <a href="https://github.com/Ayushx7766/Power-BI-Dashboard-Project" target="_blank">Power BI Dashboard Project</a>
   - Dashboard: Power BI file (.pbix) of the project
   - Images: Contains screenshots of the dashboard before easy preview.
+    <img width="1321" height="738" alt="Screenshot 2026-11-21 191325" src="https://github.com/user-attachments/assets/20761269-0788-429e-8bff-ba8bcde81b0f" />
+
