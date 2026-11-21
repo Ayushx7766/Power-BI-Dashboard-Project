@@ -27,10 +27,10 @@ This Power BI project provides a comprehensive analysis of sales data , Offering
 
   # Project Highlights
 
-  Metric value
-  TOTAL SALES 438K
-  TOTAL PROFIT 37K
-  TOTAL QUANTITY SOLD 5615
+  - Metric value
+  - TOTAL SALES 438K
+  - TOTAL PROFIT 37K
+  - TOTAL QUANTITY SOLD 5615
 
   # Repository Structure
   - Data: <a href="https://github.com/Ayushx7766/Power-BI-Dashboard-Project" target="_blank">Power BI Dashboard Project</a>
